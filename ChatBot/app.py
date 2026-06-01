@@ -249,7 +249,7 @@ LABOR_KEYWORDS = ["工资", "辞退", "拖欠", "加班", "社保", "工伤", "�
 
 
 # ====================== DeepSeek 配置 ======================
-DEEPSEEK_API_KEY = "sk-efb0b7c994c84df6aab93c6a66a1ad1f"
+DEEPSEEK_API_KEY = "你的api"
 DEEPSEEK_URL = "https://api.deepseek.com/v1/chat/completions"
 
 
